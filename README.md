@@ -32,6 +32,19 @@
 | `📁 Introducción a la Ingeniería de Software/` | Notas, cronograma y actividades | 🟢 Activo |
 | `📁 Metodología de la Educación a Distancia/` | Notas y cronograma | 🟢 Activo |
 
+## 📚 Study Support
+
+| Directorio | Descripción |
+|---|---|
+| `📁 Apoyo de Estudio/C++` | Curso de C++ |
+| `📁 Apoyo de Estudio/Ciberseguridad` | Notas de ciberseguridad |
+| `📁 Apoyo de Estudio/HTML` | HTML y CSS |
+| `📁 Apoyo de Estudio/IA Local` | IA local |
+| `📁 Apoyo de Estudio/JavaScript` | Curso de JavaScript |
+| `📁 Apoyo de Estudio/Libros` | Libros y lecturas |
+| `📁 Apoyo de Estudio/Matemáticas` | Matemáticas general |
+| `📁 Apoyo de Estudio/Python` | Curso de Python |
+
 ## 🗓️ Schedule Overview
 
 | Franja | Materia | Docente |
