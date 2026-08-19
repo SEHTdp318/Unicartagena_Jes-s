@@ -1,4 +1,4 @@
-# 📚 Guía de Estudio
+﻿# 📚 Guía de Estudio
 
 ```text
 > Inicializando protocolo de estudio...
@@ -22,3 +22,4 @@
 
 - Usar esta bóveda como base de notas y evidencias
 - Completar cronogramas y rúbricas TCC según fechas del calendario
+

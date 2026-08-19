@@ -1,4 +1,4 @@
-# 🗺️ Roadmap de Estudio y Horario Semestral UDC (2026-2)
+﻿# 🗺️ Roadmap de Estudio y Horario Semestral UDC (2026-2)
 
 **Jesús David Díaz Palencia** | *Código:* 7502620080 | *Grupo:* I1
 

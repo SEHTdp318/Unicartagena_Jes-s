@@ -1,4 +1,4 @@
-# 🗓️ Horario General — 2026-2
+﻿# 🗓️ Horario General — 2026-2
 
 ```text
 > Loading schedule...
@@ -29,3 +29,4 @@
 - Algoritmo y Programación Básica se cursa con el grupo **J1**; Cátedra Institucional con el grupo **B8**
 - Sin sesiones de laboratorio este semestre (I semestre / grupo I1)
 - *Salón no confirmado en el horario maestro; verificar con coordinación
+
